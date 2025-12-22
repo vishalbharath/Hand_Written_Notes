@@ -1,0 +1,36 @@
+-   inherit attributes and methods from one class to another.
+- **Subclass** (child) - the class that inherits from another class
+- **superclass** (parent) - the class being inherited from
+- To inherit from a class, use the `extends` keyword.
+
+
+==Basic example of Inheritance==
+```java
+class Animal{
+    int noLegs = 4;
+    public static void walk(){
+        System.out.println("I can walk");
+    }
+    public static void eat(){
+        System.out.println("I can eat");
+    }
+}
+class dog extends Animal{ //here we use extends keyword for inheriting animal
+    Boolean canBark = true;
+    String color = "black";
+}
+class Main{
+    public static void main(String[] args){
+        Animal obj1 = new Animal();
+        dog obj2 = new dog();
+        obj1.walk();// I can walk
+        obj1.eat();// I can eat
+        
+        obj2.walk();// I can walk  
+        obj2.eat();// I can eat
+        System.out.println(obj2.canBark);//true
+        System.out.println(obj2.color);//black
+    }
+}
+```
+

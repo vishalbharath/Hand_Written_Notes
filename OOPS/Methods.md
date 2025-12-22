@@ -1,0 +1,84 @@
+In other programming languages we call it a function .
+but in java we call a function as "**Method**"
+
+When a Function is written inside a class it is called a **Method** .
+
+- In java there is no function . Everything is a method as every thing is written inside a class so it is termed as a Method .
+
+==A void function without any parameter :== 
+//Here the function does not return anything . 
+```java
+`import java.util.*;
+public class Method {
+    public static void main(String[] args) {
+        add();
+        
+    }
+    public static void add(){
+        int a = 10;
+        int b = 15;
+        int c = a+b;
+        System.out.println(c);
+    }
+}`
+```
+
+> When an input is passed to an function it is called as **Parameters or Arguments**
+
+==A void function with a parameter :== 
+```java
+`import java.util.*;
+public class Method {
+    public static void main(String[] args) {
+        add(10,15);
+        
+    }
+    public static void add(int a , int b){
+        int c = a+b;
+        System.out.println(c);
+    }
+}
+`
+```
+
+==A Non-void function :== 
+
+> A non void function return a value.
+> so we mention the data type of the returning value as before the function name instead of void .
+
+```java
+`import java.util.*;
+public class Method {
+    public static void main(String[] args) {
+        System.out.println(add(10,15));
+        
+    }
+    public static int add(int a , int b){
+        int c = a+b;
+        return c;
+    }
+```
+    
+
+==**When should we use return statement?**==
+==When we need to do manipulation with out result we can use return statement==
+
+example :
+```java
+`import java.util.*;
+public class Method {
+    public static void main(String[] args) {
+        int res = add(10,15);
+        res = res*10;
+        System.out.println(res);
+        
+    }
+    public static int add(int a , int b){
+        int c = a+b;
+        return c;
+    }
+}`
+```
+
+
+
