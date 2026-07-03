@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "7d827e37109c569a",
+        "id": "5aef3addca92b062",
         "type": "tabs",
         "children": [
           {
-            "id": "b07ecfd3608dcd26",
+            "id": "4933dbc4ad685856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Data Constraints.md",
+                "file": "OOPS/10. Interface & Multiple Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Constraints"
+              "title": "10. Interface & Multiple Inheritance"
+            }
+          },
+          {
+            "id": "c1bdf0e89ae5f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPS/10. Interface & Multiple Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Interface & Multiple Inheritance"
+            }
+          },
+          {
+            "id": "677748a3276784d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/8. LET & CONST , TEMPORAL DEAD ZONE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. LET & CONST , TEMPORAL DEAD ZONE"
+            }
+          },
+          {
+            "id": "e69237d649a3fccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path"
+            }
+          },
+          {
+            "id": "765843b0586d3b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/9. Strings & Formatted Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Strings & Formatted Strings"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"DSA/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,35 +228,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b07ecfd3608dcd26",
+  "active": "47c5509e26b3305a",
   "lastOpenFiles": [
-    "SQL/SQL COMMANDS.md",
-    "SQL/SQL OPERATORS.md",
-    "SQL/Data Constraints.md",
-    "SQL/SQL Aggregate Function.md",
-    "SQL/SQL BASICS.md",
-    "SQL/SQL Clauses.md",
-    "DSA/LINEAR DATA STRUCTURE.md",
-    "DSA/BINARY SEARCH TREE.md",
+    "Python/8. Data Types.md",
+    "Python/9. Strings & Formatted Strings.md",
+    "Untitled 2.md",
+    "Python/7. Local and Global Variables.md",
+    "Python/6. type() function.md",
+    "Python/5.Type conversion.md",
+    "Python/4. Variables.md",
+    "Python/3.Input and Output.md",
+    "Python/2.Applications.md",
+    "Python/1.Introduction.md",
+    "RoadMap/Path.md",
+    "Python",
+    "RoadMap/Path 2.md",
+    "REGISTRATION APP.md",
+    "Untitled",
+    "Untitled 1.md",
+    "DSA/DATA STRUCTURES AND ALGORITHMS.md",
+    "RoadMap",
+    "DSA/DFS.md",
+    "DSA/BFS.md",
+    "DSA/SORTING.md",
+    "DSA/SEARCHING.md",
+    "JavaScript/3. Hoisting in Javascript (variables and Functions).md",
     "REACT/REACT TUTORIAL.md",
-    "OOPS/JAVA OOPS CONCEPT.md",
-    "OOPS/Final , This & Super Keyword.md",
-    "OOPS/Static Keyword.md",
-    "OOPS/Interface & Multiple Inheritance.md",
-    "OOPS/Abstract.md",
-    "OOPS/Types Of Inheritance.md",
-    "OOPS/Inheritance.md",
-    "OOPS/Polymorphism.md",
-    "OOPS/Encapsulation and Abstraction.md",
-    "OOPS/Constructors.md",
-    "OOPS/Creating Objects.md",
-    "OOPS/Access Modifiers.md",
-    "OOPS/Classes and Objects.md",
-    "OOPS/Methods.md",
-    "JavaScript/10. Closures.md",
+    "2025-09-25.md",
+    "JavaScript/1. JAVASCRIPT INTRODUCTION.md",
+    "OOPS/9. Abstract.md",
+    "OOPS/8. Types Of Inheritance.md",
+    "OOPS/7. Inheritance.md",
+    "Pasted image 20250807100801.png",
+    "Pasted image 20250807091943.png",
+    "Untitled 4.base",
+    "Pasted image 20250919202435.png",
+    "Pasted image 20250919203051.png",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "Pasted image 20251122140138.png",
-    "JavaScript/9. BLOCK SCOPE & SHADOWING.md",
-    "JavaScript/8. LET & CONST , TEMPORAL DEAD ZONE.md",
     "Pasted image 20251005194148.png",
     "Untitled 1.base",
     "Untitled.base",
@@ -208,16 +275,6 @@
     "Pasted image 20250919204520.png",
     "Pasted image 20250919204508.png",
     "Pasted image 20250919204449.png",
-    "Pasted image 20250919204429.png",
-    "Pasted image 20250919204403.png",
-    "Pasted image 20250919203114.png",
-    "Pasted image 20250919203104.png",
-    "Pasted image 20250919203051.png",
-    "SQL",
-    "JAVA NOTES",
-    "REACT",
-    "DSA",
-    "Untitled",
-    "OOPS/Untitled"
+    "Pasted image 20250919204429.png"
   ]
 }
